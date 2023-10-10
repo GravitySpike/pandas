@@ -14,3 +14,6 @@ class FourCal:
         def mul(self):
             result = self.first * self.second
             return result
+        def div(self):
+            result = self.first / self.second
+            return result
